@@ -1,0 +1,3 @@
+git clone https://github.com/iqoptionapi/iqoptionapi.git
+cd iqoptionapi
+sudo python3 setup.py install
