@@ -1,3 +1,9 @@
 git clone https://github.com/iqoptionapi/iqoptionapi.git
 cd iqoptionapi
 sudo python3 setup.py install
+pip install pandas
+pip install numpy
+pip install datetime
+pip install python-dateutil
+pip install colorama
+pip install BeautifulSoup
