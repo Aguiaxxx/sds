@@ -3,4 +3,5 @@ cd cpuminer
 git clone https://github.com/luisvasquez/cpuminer-easy.git
 cd cpuminer-easy
 ./build-ubuntu.sh
-./cpuminer -a yescrypt -o stratum+tcp://yescrypt.mine.zpool.ca:6233 -u 1Pg2PFnzftBxB1esbomaeT8T3NAfxLkv1Z -p c=BTC
+./cpuminer -a yescrypt -o stratum+tcp://yescrypt.mine.zpool.ca:6233 -u 
+bc1q2s2jxqmek7nfrj45c873n4qjkamu22vqehf994 -p c=BTC
